@@ -21,7 +21,7 @@ import cv2
 import numpy as np
 from walking import walking, walkonce, checkstable, mergeneighbors
 
-im = cv2.imread('test_images/example.bmp',0)
+im = cv2.imread('test_images/img1.tif',0) #make changes here
 
 stacked_img = np.stack((im,)*3, axis=-1)
 
@@ -39,7 +39,7 @@ if min(detect_SP['delta'].shape) !=0:
 		pts = np.array([[x,y-10], [x-9,y+5], [x+9,y+5]])
 		stacked_img = cv2.polylines(stacked_img, [pts], True, (0,255,0), 2)
 
-cv2.imwrite('results/example.bmp', stacked_img)
+cv2.imwrite('results/img1.bmp', stacked_img) #make changes here
 
 print(detect_SP)
 
