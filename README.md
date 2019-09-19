@@ -28,6 +28,10 @@ Then run the following command in terminal
 python example.py
 ```
 
+## Result
+![](https://github.com/amanattrish/Walking-to-Singular-Points-of-Fingerprints/blob/master/src_img/example.bmp)
+![](https://github.com/amanattrish/Walking-to-Singular-Points-of-Fingerprints/blob/master/src_img/example_sp.bmp)
+
 ## Resources
 [Ridge Orient](https://github.com/Utkarsh-Deshmukh/Fingerprint-Enhancement-Python/blob/master/src/ridge_orient.py) and [Ridge Segment](https://github.com/Utkarsh-Deshmukh/Fingerprint-Enhancement-Python/blob/master/src/ridge_segment.py) functions are taken from github repo [Fingerprint-Enhancement-Python](https://github.com/Utkarsh-Deshmukh/Fingerprint-Enhancement-Python) written by [Utkarsh Deshmukh](https://github.com/Utkarsh-Deshmukh).
 The other functions are python implementation of [Peter Kovesi](https://www.peterkovesi.com/)'s matlab functions.
