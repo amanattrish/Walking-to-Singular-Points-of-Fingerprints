@@ -45,4 +45,4 @@ The other functions are python implementation of [Peter Kovesi](https://www.pete
 ###### All rights reserved.
 
 ## Acknowledgements
-The author would like to thank Dr. Peter Kovesi (This code is a python implementation of his work). The author would also like to thank Mr. [Nagasai Bharat](https://github.com/NagasaiBharat) for his contribution on code structuring.
+The author would like to thank Dr. [Peter Kovesi](https://www.peterkovesi.com/) (This code is a python implementation of his work). The author would also like to thank Mr. [Nagasai Bharat](https://github.com/NagasaiBharat) for his contribution on code structuring.
